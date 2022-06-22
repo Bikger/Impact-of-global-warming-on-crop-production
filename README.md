@@ -8,4 +8,7 @@ Shows crop growth statistics in countries most influenced by global warming, lik
 Missing values were handled using:
 - Method filling
 - Filling with 0
+### How to run
+```
+pip install -r requirements.txt
 
