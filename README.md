@@ -6,4 +6,6 @@ Shows crop growth statistics in countries most influenced by global warming, lik
 
 ### Handling missing data
 Missing values were handled using:
-- 
+• Method filling
+• Filling with 0
+
