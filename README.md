@@ -9,7 +9,8 @@ Missing values were handled using:
 - Method filling
 - Filling with 0
 ### How to run
-You can use main.ipynb or glob_warm_crops.py to run the script. Install the requirements using: 
+You can use main.ipynb or glob_warm_crops.py to run the script. 
+You can install the requirements using: 
 ```
 pip install -r requirements.txt
 
